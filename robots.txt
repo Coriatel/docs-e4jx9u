@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-4h9ffj.webprism.co/sitemap.xml
